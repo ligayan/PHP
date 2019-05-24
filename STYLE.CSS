@@ -1,0 +1,10 @@
+TBODY TR TD {
+border: 1px solid BLACK;
+background-color: RED;
+width: 100%;
+text-align: left;
+border-collapse: collapse;
+}
+body{
+  background-color: YELLOW;
+}
